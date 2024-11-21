@@ -1,4 +1,4 @@
-# TeoriaDosGrafos
+# Teoria Dos Grafos - Mackenzie
 
 ## Integrantes:
 
@@ -12,13 +12,11 @@ O sistema metroviário de São Paulo é uma das redes de transporte público mai
 
 ## Justificativa do Uso de Grafos:
 A rede metroviária foi representada por vértices (estações) e arestas (conexões entre estações) com pesos correspondentes às distâncias ou custos de transporte. Este modelo permite aplicar algoritmos de teoria dos grafos para:
-
-## Verificar a conectividade da rede:
+Verificar a conectividade da rede;
 Determinar caminhos ou ciclos ótimos (Eulerianos ou Hamiltonianos);
 Analisar graus de entrada e saída das estações.
-Objetivos do Desenvolvimento Sustentável (ODS)
 
-## Este projeto contribui para os seguintes ODS:
+## Objetivos do Desenvolvimento Sustentável (ODS):
 ODS 11: Cidades e Comunidades Sustentáveis - O estudo da conectividade do sistema metroviário apoia soluções mais eficientes para mobilidade urbana.
 ODS 9: Indústria, Inovação e Infraestrutura - Identificar pontos de melhoria na infraestrutura do transporte público é essencial para seu desenvolvimento sustentável.
 ODS 13: Ação Contra a Mudança Global do Clima - Ao otimizar o transporte público, incentivamos o uso de meios coletivos, reduzindo emissões de gases do efeito estufa.
