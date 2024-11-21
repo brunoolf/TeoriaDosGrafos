@@ -21,6 +21,17 @@ Analisar graus de entrada e saída das estações.
 - ODS 9: Indústria, Inovação e Infraestrutura - Identificar pontos de melhoria na infraestrutura do transporte público é essencial para seu desenvolvimento sustentável.
 - ODS 13: Ação Contra a Mudança Global do Clima - Ao otimizar o transporte público, incentivamos o uso de meios coletivos, reduzindo emissões de gases do efeito estufa.
 
+## Solução:
+O projeto analisou a rede metroviária de São Paulo usando Teoria dos Grafos para identificar características estruturais e propor melhorias.
+
+1.	Conectividade: A rede é conexa, garantindo que todas as estações estão interligadas por algum caminho, essencial para mobilidade urbana eficiente.
+2.	Eulerianidade: O grafo não é Euleriano, mas contém subgrafos com caminhos Eulerianos, úteis para planejar rotas otimizadas e manutenção.
+3.	Hamiltonianidade: Não há um ciclo Hamiltoniano completo, refletindo a complexidade e as limitações de percorrer todas as estações sem repetição.
+4.	Graus de Conexão: Estações como Sé e Luz são hubs críticos devido à alta conectividade, sendo pontos prioritários para gerenciamento de fluxo de passageiros.
+
+Os insights gerados pelo projeto podem ser utilizados por planejadores urbanos para melhorar a eficiência da rede metroviária, distribuir melhor os fluxos de passageiros e planejar futuras expansões.
+
+
 ## Novas Funcionalidades Implementadas:
 ### Verificação de Eulerianidade:
 Determina se o grafo é Euleriano ou possui caminho Euleriano.
