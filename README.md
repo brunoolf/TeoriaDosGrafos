@@ -17,9 +17,9 @@ Determinar caminhos ou ciclos ótimos (Eulerianos ou Hamiltonianos);
 Analisar graus de entrada e saída das estações.
 
 ## Objetivos do Desenvolvimento Sustentável (ODS):
-ODS 11: Cidades e Comunidades Sustentáveis - O estudo da conectividade do sistema metroviário apoia soluções mais eficientes para mobilidade urbana.
-ODS 9: Indústria, Inovação e Infraestrutura - Identificar pontos de melhoria na infraestrutura do transporte público é essencial para seu desenvolvimento sustentável.
-ODS 13: Ação Contra a Mudança Global do Clima - Ao otimizar o transporte público, incentivamos o uso de meios coletivos, reduzindo emissões de gases do efeito estufa.
+- ODS 11: Cidades e Comunidades Sustentáveis - O estudo da conectividade do sistema metroviário apoia soluções mais eficientes para mobilidade urbana.
+- ODS 9: Indústria, Inovação e Infraestrutura - Identificar pontos de melhoria na infraestrutura do transporte público é essencial para seu desenvolvimento sustentável.
+- ODS 13: Ação Contra a Mudança Global do Clima - Ao otimizar o transporte público, incentivamos o uso de meios coletivos, reduzindo emissões de gases do efeito estufa.
 
 ## Novas Funcionalidades Implementadas:
 ### Verificação de Eulerianidade:
